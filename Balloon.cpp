@@ -4,6 +4,9 @@ Course: CSCI-135
 Instructor: Maryash
 Assignment: HW2
 
+This program asks the user to input a diameter and then calculates
+the volume. After doing this, it adds 1 to the diameter and tells
+the user the increase of volume twice.
 */
 
 /*
